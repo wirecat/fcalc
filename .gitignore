@@ -1,3 +1,6 @@
+# Ignore vscode settings for now
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
